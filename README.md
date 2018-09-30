@@ -1,6 +1,6 @@
 # CLRS - Introduction to Algorithms
 
-An implementation of some algorithms and data structures from CLRS in Python. Repository is used to track revisions and improvements in my learning.
+An implementation of some algorithms and data structures from CLRS in Python. Repository is used to track revisions and improvements in my learning process.
 Work in process.
 
 # Summary
